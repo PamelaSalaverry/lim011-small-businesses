@@ -1,5 +1,5 @@
 
-# LA TIENDITA DE DON PPK - ECOMMERCE
+# LA TIENDITA DE DON PPK - ECOMMERCE 
 
 _Emprendimiento autogestionado de Trilce. Venta de productos textiles estampados con humor negro, sátira politica,
 tweets, frases y memes, muchos memes._
