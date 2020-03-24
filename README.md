@@ -9,6 +9,7 @@ Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el 
 
 ## 2. PROBLEMAS IDENTIFICADOS 📄
 Dentro de los principales problemas extraídos de las entrevista con usuario y cliente tenemos los siguientes:
+
  ### Cliente:
  * Saturación de mensajes con los usuarios por atender distintos productos en venta. No llega a contactar a todos
  y pierde algunas ventas
@@ -20,6 +21,7 @@ Dentro de los principales problemas extraídos de las entrevista con usuario y c
  * Les es tedioso contactar el punto de entrega por el tema de coordinación marca-cliente.
 
  ## 3. PÚBLICO OBJETIVO 📌
+ 
   ### USER PERSONA
   ![web](images/userpersona.png)
   ### COSTUMER JOUNEY MAP
