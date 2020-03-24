@@ -10,23 +10,23 @@ Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el 
 ## 2. PROBLEMAS IDENTIFICADOS 📄
 Dentro de los principales problemas extraídos de las entrevista con usuario y cliente tenemos los siguientes:
 
- ### Cliente:
- * Saturación de mensajes con los usuarios por atender distintos productos en venta. No llega a contactar a todos
- y pierde algunas ventas
- * Poca disponibilidad de tiempo para estar conectada a redes sociales todo el tiempo.
+### Cliente:
+* Saturación de mensajes con los usuarios por atender distintos productos en venta. No llega a contactar a todos
+y pierde algunas ventas
+* Poca disponibilidad de tiempo para estar conectada a redes sociales todo el tiempo.
 
- ### Usuario:
- * No suele encontrar información sobre un producto de su interés y tiene la necesidad de escribir un DM en el perfil
- de instagram para poder tener una información completa y realizar su compra satisfactoriamente.
- * Les es tedioso contactar el punto de entrega por el tema de coordinación marca-cliente.
+### Usuario:
+* No suele encontrar información sobre un producto de su interés y tiene la necesidad de escribir un DM en el perfil
+de instagram para poder tener una información completa y realizar su compra satisfactoriamente.
+* Les es tedioso contactar el punto de entrega por el tema de coordinación marca-cliente.
 
- ## 3. PÚBLICO OBJETIVO 📌
+## 3. PÚBLICO OBJETIVO 📌
  
-  ### USER PERSONA
-  ![web](images/userpersona.png)
-  ### COSTUMER JOUNEY MAP
-  ![web](images/cjm.png)
-  ![web](images/paingains.png)
+### USER PERSONA
+![web](images/userpersona.png)
+### COSTUMER JOUNEY MAP
+![web](images/cjm.png)
+![web](images/paingains.png)
 
 ## 4. DEFINICIÓN DE LA SOLUCIÓN 🛠️
 En base a las distintas entrevistas, y con apoyo del benchmark de navegación y visual. Llegamos a crear un sitio web
