@@ -11,11 +11,13 @@ Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el 
 Dentro de los principales problemas extraídos de las entrevista con usuario y cliente tenemos los siguientes:
 
 ### Cliente:
+
  * Saturación de mensajes con los usuarios por atender distintos productos en venta. No llega a contactar a todos
  y pierde algunas ventas
  * Poca disponibilidad de tiempo para estar conectada a redes sociales todo el tiempo.
 
 ### Usuario:
+
  * No suele encontrar información sobre un producto de su interés y tiene la necesidad de escribir un DM en el perfil
  de instagram para poder tener una información completa y realizar su compra satisfactoriamente.
  * Les es tedioso contactar el punto de entrega por el tema de coordinación marca-cliente.
@@ -23,8 +25,10 @@ Dentro de los principales problemas extraídos de las entrevista con usuario y c
 ## 3. PÚBLICO OBJETIVO 📌
  
 ### USER PERSONA
+
   ![web](images/userpersona.png)
 ### COSTUMER JOUNEY MAP
+
   ![web](images/cjm.png)
   ![web](images/paingains.png)
 
@@ -46,10 +50,11 @@ En base a nuestro affinity map y mapa de prioridades. Se extrajo distintos _Prob
 ## 8. Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
 * [Link del Zeplin](https://app.zeplin.io/project/5e1510c82dd91e53adf69327)
 * [Link de Loom](https://app.zeplin.io/project/5e1510c82dd91e53adf69327)
+
 ## 9. LINK DE CARPETA DEL DRIVE 📄
  [Link del Drive](https://drive.google.com/drive/folders/1KEtYo-u2GFWUBpw9tDdNfNEiggv0-hLV?usp=sharing)
 
- ## 10. NEXT STEPS 📝
+## 10. NEXT STEPS 📝
   * Agregar un item de filtros
   * Agregar opción de Quejas y Devoluciones
   * Agregar opción de búsqueda.
